@@ -31,7 +31,7 @@ version "0.973" do
   source md5: "0994e9f906a7a4a2e97049c8dbaef584"
 end
 
-source url: "https://github.com/theory/#{name}/archive/#{version}.tar.gz"
+source url: "https://github.com/theory/sqitch/releases/download/v0.973/app-sqitch-0.973.tar.gz"
 
 relative_path "App-Sqitch-#{version}"
 
